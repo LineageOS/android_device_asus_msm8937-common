@@ -16,6 +16,23 @@
       "message": "https://android-review.googlesource.com/c/platform/system/sepolicy/+/1519814",
       "revId": "4dc4254055e00b1337b66eccb71bdb7ca9c161c0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff337af6_cd0ad74f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16208
+      },
+      "writtenOn": "2022-02-13T10:49:15Z",
+      "side": 1,
+      "message": "type tethering_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;",
+      "revId": "4dc4254055e00b1337b66eccb71bdb7ca9c161c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
